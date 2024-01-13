@@ -1,0 +1,35 @@
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta property="og:title" content="Your title" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://freshmart-rbx.github.io/Files/Test" />
+    <meta property="og:description" content="Your description" />
+    <meta name="theme-color" content="#ff5447">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" type="image/x-icon" href="https://freshmart-rbx.github.io/Files/PNGS/Logos/FreshmartLogo.png">
+     <meta charset="UTF-8" />
+     <meta http-equiv="refresh" content="2; URL=https://links.freshmart-plc.co.uk/Discord" />
+     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
+        body {
+            font-family: 'Unbounded', sans-serif;
+            background: #000000;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            align-content: center;
+            height: 100vh;
+            width: 100vw;
+            color: white;
+            text-align: center !important;
+        }
+         </style>
+   </head>
+   <body>
+     <p>You're now being redirected. If you are not redirected within 3 seconds, click <a href="https://links.freshmart-plc.co.uk/Discord">here</a> to go to the Discord Server.</p>
+   </body>
+</html>
